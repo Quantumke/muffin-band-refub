@@ -1,0 +1,100 @@
+header{
+align-content: center;
+}
+
+nav{
+padding-top: 45px;
+align-items: center;
+
+}
+nav ul{
+display: inline;
+list-style: none;
+text-decoration: none;
+align-content: center;
+
+}
+nav li{
+display: inline;
+background-color: firebrick;
+text-decoration: none;
+padding: 15px;
+font-size: 22px;
+align-self: center;
+}
+a{
+text-decoration: none;
+color: white;
+}
+a:hover{
+color: darkseagreen;
+}
+
+table, tr, td {
+border: 1px solid blue;
+}
+body{
+background-image: url("/assets/images/symbol.jpg")
+}
+td{
+
+height: 12px;
+
+    }
+a:td{
+color: aqua;
+}
+#table{
+align-content: center;
+padding: 60px;
+}
+.title{
+color: white;
+}
+iframe{
+height: 90%;
+width: 90%;
+border: 1px solid black;
+align-content: center;
+padding-top: 150px;
+}
+
+/*Styling for gallery navigation menu*/
+
+header nav ul{
+display: inline;
+list-style: none;
+text-decoration: none;
+align-content: center;
+
+}
+header nav ul li{
+display: inline;
+background-color: firebrick;
+text-decoration: none;
+padding: 15px;
+font-size: 22px;
+align-self: center;
+}
+/*Font text for the event page*/
+.place{
+color:yellow;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

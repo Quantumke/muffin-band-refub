@@ -1,0 +1,86 @@
+#index {
+    background-image: url("symbol.jpg");
+    background-size: 1300px;
+ 
+}
+
+#bio2 {
+    
+}
+
+#contactpage{
+    background-image: url("symbol.jpg");
+    background-size: 1300px
+}
+
+#contactDets{
+    background-color: forestgreen;
+    width: 30%
+}
+
+#eventpage{
+    background-image: url(concert2.jpg);
+    background-size: 1300px;
+
+}
+
+
+#music{
+    margin: auto;
+    display: inline-block;
+    width: 35%;
+    clear: both;
+    padding: 10px;
+    margin: 0px 20px;
+   background-color: thistle;
+}
+
+#bio{
+    margin: auto;
+    float:left;
+    clear: both;
+    display: inline-block;
+    width: 30%;
+    
+    padding: 10px;
+   background-color: thistle;
+}
+
+#events{
+    margin: auto;
+    float:left;
+    clear: both;
+    display: inline-block;
+    width: 30%;
+    
+    padding: 10px;
+    background-color: thistle;
+}
+
+#Rss{
+    margin:auto;
+    float:right; 
+    display: inline-block;
+    width: 30%;
+    border:3px solid #000000;
+    padding: 10px;
+    background-color: thistle;
+    clear: both;
+    height: 50px;
+}
+
+#tour{
+    margin: auto;
+    float:right;
+    display: inline-block;
+    width: 30%;
+    clear: both;    
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: thistle;
+}
+
+h3{
+    text-align: center;
+}
+
